@@ -2,7 +2,7 @@
 
 **Reinforcement Learning: Value Iteration vs. Off-Policy Monte Carlo**
 
-This repository contains my solutions for **Assignment 1 (CSCN8020: Artificial Intelligence & Machine Learning)**.  
+This repository contains my solutions for **Assignment 1 (CSCN8020: Reinforcement Learning Programming)**.  
 The assignment explores reinforcement learning algorithms applied to a **5×5 Gridworld** environment with goal and penalty states.
 
 ---
