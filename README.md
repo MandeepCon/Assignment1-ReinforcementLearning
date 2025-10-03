@@ -122,5 +122,5 @@ pip install -r requirements.txt
 
 ## 👤 Created
 **Mandeep Singh Brar**  
-CSCN8020 — Artificial Intelligence & Machine Learning  
+CSCN8020 — Reinforcement Learning Programming  
 Conestoga College  
